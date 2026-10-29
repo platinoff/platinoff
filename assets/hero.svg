@@ -48,6 +48,12 @@
       </circle>
     </g>
   </g>
+  <g transform="translate(1048 48)">
+    <circle r="9" fill="#fbbf24">
+      <animate attributeName="r" values="7;11;7" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="18" y="6" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="22" font-weight="700" fill="#fbbf24">rusty</text>
+  </g>
   <g fill="#c9c2ff">
     <circle cx="88" cy="44" r="1.4"><animate attributeName="opacity" values="0.15;0.85;0.15" dur="3.4s" begin="0.1s" repeatCount="indefinite"/></circle>
     <circle cx="166" cy="90" r="1.1"><animate attributeName="opacity" values="0.12;0.9;0.12" dur="4.1s" begin="0.4s" repeatCount="indefinite"/></circle>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Platinoff — Mad Developers Inc. — Galaxy Mission Control" width="100%">
+  <img src="assets/hero.svg" alt="Platinoff — Mad Developers Inc. — Galaxy Mission Control. rusty is on the orbit." width="100%">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 Every repository is a living node wired to the heart of it — **GSV**:
 
 <p align="center">
-  <img src="assets/ecosystem.svg" alt="Platinoff ecosystem — every repo is a living node around GSV" width="100%">
+  <img src="assets/galaxy.svg" alt="Platinoff ecosystem — GSV hub with rusty, telenetis, and the other public repos" width="100%">
 </p>
 
 ## 🛠 What I build
